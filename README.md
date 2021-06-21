@@ -1,4 +1,4 @@
-# HelloWorld:   https://helloworld-t-shirts.netlify.app/home
+# HelloWorld:   https://hw-tshirts.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
